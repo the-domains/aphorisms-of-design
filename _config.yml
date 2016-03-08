@@ -1,0 +1,28 @@
+name: Aphorisms of Design
+favicon: null
+layout_spectrum: 0.3720208874437958
+typography_spectrum: 0.8141830936074257
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5868418517056853
+  lightness: 0.5135624825488776
+  saturation: 0.25920224539004266
+  rhythmicContrast: 0.5239735923241824
+purpose: []
