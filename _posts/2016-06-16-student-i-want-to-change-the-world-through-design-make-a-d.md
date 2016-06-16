@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Student: I want to change the world through design, make a dent in the
   universe.
-datePublished: '2016-06-16T16:42:22.341Z'
-dateModified: '2016-06-16T16:41:05.964Z'
+datePublished: '2016-06-16T16:43:17.590Z'
+dateModified: '2016-06-16T16:43:07.173Z'
 title: ''
 author: []
 sourcePath: >-
