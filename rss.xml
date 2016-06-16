@@ -4,21 +4,21 @@
         <description><![CDATA[Aphorisms of Design]]></description>
         <link>https://thegrid.ai/aphorisms-of-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 16:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 16:43:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aphorisms-of-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AoD #0001]]></title>
+            <description><![CDATA[<p>Student: I want to change the world through design, make a dent in the universe.</p>]]></description>
+            <link>https://thegrid.ai/aphorisms-of-design/student-i-want-to-change-the-world-through-design-make-a-d/index.html</link>
+            <guid isPermaLink="false">79692ac5-1afa-40b3-9123-ad99c374493b</guid>
+            <pubDate>Thu, 16 Jun 2016 16:43:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AoD #0002]]></title>
             <description><![CDATA[<p>Student: What's wrong with wanting to change the world</p>]]></description>
             <link>https://thegrid.ai/aphorisms-of-design/aod-0002/index.html</link>
             <guid isPermaLink="false">9eddced0-2628-49f3-8591-5361f8922635</guid>
             <pubDate>Thu, 16 Jun 2016 16:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AoD #0001]]></title>
-            <description><![CDATA[<p>Student: I want to change the world through design, make a dent in the universe.</p>]]></description>
-            <link>https://thegrid.ai/aphorisms-of-design/student-i-want-to-change-the-world-through-design-make-a-d/index.html</link>
-            <guid isPermaLink="false">79692ac5-1afa-40b3-9123-ad99c374493b</guid>
-            <pubDate>Thu, 16 Jun 2016 16:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
