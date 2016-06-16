@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aphorisms of Design]]></title>
+        <description><![CDATA[Aphorisms of Design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 16 Jun 2016 16:40:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Student: I want to change the world through design, make a dent in the universe.</p>]]></description>
+            <link>undefinedstudent-i-want-to-change-the-world-through-design-make-a-d/index.html</link>
+            <guid isPermaLink="false">79692ac5-1afa-40b3-9123-ad99c374493b</guid>
+            <pubDate>Thu, 16 Jun 2016 16:40:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
